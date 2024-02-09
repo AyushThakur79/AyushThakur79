@@ -2,7 +2,7 @@
 
 🌍 I am a Front-End Developer based in Chandigarh, India.
 
-## Skills | Tool Stack
+## Skills
 ![Vs Code](https://skillicons.dev/icons?i=vscode)
 ![HTML/CSS](https://skillicons.dev/icons?i=html,css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
