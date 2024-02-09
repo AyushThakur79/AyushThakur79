@@ -1,6 +1,17 @@
-<h1>Hi My name is Ayush Thakur</h1>
-<h2>🌍  I am a Front-End Developer based in Belgrade, Serbia.</h2>
+# Hi! My name is Stefan Topalović 😄
 
-<p>Skills</p>
+🌍 I am a Front-End Developer based in Belgrade, Serbia.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Skills
+- [HTML](https://skillicons.dev/icons?i=html,css)
+- [CSS](https://skillicons.dev/icons?i=html,css)
+- [JavaScript](https://skillicons.dev/icons?i=js,ts)
+- [TypeScript](https://skillicons.dev/icons?i=js,ts)
+- [React](https://skillicons.dev/icons?i=react,next)
+- [Next.js](https://skillicons.dev/icons?i=react,next)
+- [Tailwind CSS](https://skillicons.dev/icons?i=tailwind,scss)
+- [SCSS](https://skillicons.dev/icons?i=tailwind,scss)
+- [Figma](https://skillicons.dev/icons?i=figma)
+
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/stefan-topalovic-dev/)
