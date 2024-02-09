@@ -1,4 +1,4 @@
-# Hi! My name is Ayush Thakur😄
+# Code Vault
 
 I am a Front-End Developer based in Chandigarh, India.
 Passionate for crafting immersive digital experiences. Aspiring to become a Full Stack Web Developer, I blend creativity and adaptability to solve challenges and bring ideas to life in the digital realm 🌍
