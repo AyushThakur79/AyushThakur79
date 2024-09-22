@@ -16,7 +16,7 @@ When I'm not coding, you'll find me exploring award-winning sites on Awwwards.co
 
 
 ## Socials
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-visit-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://ayush-portfolio-2024.pages.dev/)
+[![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayush-portfolio-2024.pages.dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushthakur79/)
 [![Behance Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ayushthakur35)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ayush.79/)
