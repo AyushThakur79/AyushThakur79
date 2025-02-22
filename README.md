@@ -1,10 +1,10 @@
-# Hi! My name is Ayush Thakur | CODE VAULT 🤖
+# Designer & Developer → Figma. Webflow. GSAP.
 
-As an aspiring web designer and front-end developer, I'm passionate about the art and science of web design. With expertise in HTML, CSS, and JavaScript, I create responsive and visually captivating designs.
+Designing experiences that feel as good as they look—that’s what drives me as a UI/UX Designer. I’m actively honing my skills in UI/UX design and Webflow development (Front-End Development), bringing ideas to life with Figma and Webflow while focusing on creating intuitive, engaging interfaces.
 
-Right now, I’m focused on mastering React and planning to dive into Next.js to stay ahead in modern web development. This blend of technology and design supports my goal of becoming a versatile web designer.
+With a strong grasp of HTML, CSS, JavaScript, and libraries like GSAP and SwiperJS, I craft responsive, interactive designs that are smooth, engaging, and built for modern users. Right now, I’m diving deeper into Webflow to create polished, no-code web experiences.
 
-When I'm not coding, you'll find me exploring award-winning sites on Awwwards.com, staying updated on the latest design trends and animations, and sharpening my skills with Figma. This passion drives me to push the boundaries of user experience and shape my future as a web designer.
+When I’m not designing, you’ll find me exploring award-winning sites on Awwwards.com, learning from the best, and pushing my creativity forward. For me, it’s all about blending aesthetics with usability to create designs that leave an impact.
 
 ## Skills
 ![Vs Code](https://skillicons.dev/icons?i=vscode)
